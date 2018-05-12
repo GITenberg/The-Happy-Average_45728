@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37861
     wikipedia: http://en.wikipedia.org/wiki/Brand_Whitlock
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45728#The-Happy-Average
 gutenberg_issued: '2014-05-23'
 gutenberg_type: Text
 identifiers:
