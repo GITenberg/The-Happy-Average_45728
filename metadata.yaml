@@ -1,0 +1,38 @@
+_repo: The-Happy-Average_45728
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Christy, Howard Chandler
+    birthdate: 1873
+    deathdate: 1952
+    gutenberg_agent_id: '4540'
+    url: http://www.gutenberg.org/2009/agents/4540
+    wikipedia: http://en.wikipedia.org/wiki/Howard_Chandler_Christy
+covers:
+- cover_type: archival
+  image_path: 45728-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Whitlock, Brand
+    birthdate: 1869
+    deathdate: 1934
+    gutenberg_agent_id: '37861'
+    url: http://www.gutenberg.org/2009/agents/37861
+    wikipedia: http://en.wikipedia.org/wiki/Brand_Whitlock
+description: ''
+gutenberg_issued: '2014-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45728'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Social life and customs -- Fiction'
+- !lcsh 'Middle West -- Fiction'
+- !lcsh 'Courtship -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Betrothal -- Fiction'
+title: The Happy Average
+url: http://www.gutenberg.org/ebooks/45728
